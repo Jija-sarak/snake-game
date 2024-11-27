@@ -88,5 +88,6 @@ body, .snake{
 }
 
 #logo{
+  height: 24%;
   position: absolute;
 }
